@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1039" height="356" viewBox="0 0 1039 356">
+  <defs>
+    <clipPath id="clip-Logo_white">
+      <rect width="1039" height="356"/>
+    </clipPath>
+  </defs>
+  <g id="Logo_white" data-name="Logo white" clip-path="url(#clip-Logo_white)">
+    <g id="Group_53" data-name="Group 53" transform="translate(-181.762 -53.001)">
+      <text id="Bytemine" transform="translate(234.762 302.001)" fill="#fff" font-size="217" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Bytemine</tspan></text>
+    </g>
+  </g>
+</svg>
