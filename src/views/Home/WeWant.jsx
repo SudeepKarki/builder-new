@@ -4,10 +4,6 @@ import {Link} from "react-router-dom";
 import FT from "assets/img/ft.png";
 
 function WeWant() {
-    const settings = {
-        dots: false,
-        arrows: true
-      };
     return (
         <div className="home-wewant">
             <h2 className="section-title">We are the developers you want.
