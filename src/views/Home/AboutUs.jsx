@@ -1,9 +1,8 @@
 import A1 from "assets/img/a1.jpg";
 import A2 from "assets/img/a2.jpg";
-import { Row, Col,Card} from 'antd';
+import { Row, Col} from 'antd';
 
 import { Link} from 'react-router-dom';
-const { Meta } = Card;
 
 function Projects() {
     return (
